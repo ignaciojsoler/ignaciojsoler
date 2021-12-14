@@ -30,7 +30,7 @@
 <p align="center">
   <img src="img/krono.png>
 </p>
- [Deploy] (https://ignaciosoler.netlify.app) | [Repositorio](https://github.com/ignaciojsoler/kronorecords)
+- [Deploy] (https://ignaciosoler.netlify.app) | [Repositorio](https://github.com/ignaciojsoler/kronorecords)
 
 
 
