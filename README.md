@@ -39,7 +39,7 @@
 
 [Deploy](https://kronorecords.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/kronorecords/)
 
-
+<p align="center"><img src="img/krono.png" height="500px"></p>
 
 <!--
 **ignaciojsoler/ignaciojsoler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
