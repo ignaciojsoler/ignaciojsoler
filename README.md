@@ -37,7 +37,6 @@
 ###  - <h3>Krono Records</h3>
 <p>Página web que desarrollé para mi emprendimiento profesional, donde compongo música para cine y videojuegos: </p>
 - [Deploy](https://kronorecords.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/kronorecords/)
-- <p align="center"><img src="img/krono.png" height="500px"></p>
 
 
 
