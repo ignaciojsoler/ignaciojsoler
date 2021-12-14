@@ -28,7 +28,7 @@
 ### Krono Records
 - Página web que desarrollé para mi emprendimiento profesional, donde compongo música para cine y videojuegos:
 <p align="center">
-  <img src="img/krono.png>
+  <img src="img/krono.png">
 </p>
 - [Deploy] (https://ignaciosoler.netlify.app) | [Repositorio](https://github.com/ignaciojsoler/kronorecords)
 
