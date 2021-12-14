@@ -53,7 +53,7 @@
 
 [Deploy](https://chilljazz.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/chilljazz)
 
-<p align="center"><img src="img/weather.png" height="500px"></p>
+<p align="center"><img src="img/chilljazz.png" height="500px"></p>
 
 <!--
 **ignaciojsoler/ignaciojsoler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
