@@ -18,6 +18,18 @@
 ### 📫 Contacto:
 - Linkedin: https://www.linkedin.com/in/ignaciojsoler
 - Email: ignaciojsoler@gmail.com
+
+### 😄 Mi Landing Page
+- Descargá mi curriculum y accedé a todo mi portfolio directamente desde mi página web: https://ignaciosoler.netlify.app/
+
+
+### ⚡ Mis proyectos:
+
+### Krono Records
+- Página web que desarrollé para mi emprendimiento profesional, donde compongo música para cine y videojuegos
+- https://ignaciosoler.netlify.app/ | https://github.com/ignaciojsoler/kronorecords
+
+
 <!--
 **ignaciojsoler/ignaciojsoler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
