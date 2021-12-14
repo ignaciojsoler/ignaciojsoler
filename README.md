@@ -20,14 +20,14 @@
 - Email: ignaciojsoler@gmail.com
 
 ### 😄 Mi Landing Page
-- Descargá mi curriculum y accedé a todo mi portfolio directamente desde mi página web: https://ignaciosoler.netlify.app/
+- Descargá mi curriculum y accedé a todo mi portfolio directamente desde [mi página web personal](https://ignaciosoler.netlify.app/)
 
 
 ### ⚡ Mis proyectos:
 
 ### Krono Records
 - Página web que desarrollé para mi emprendimiento profesional, donde compongo música para cine y videojuegos
-- https://ignaciosoler.netlify.app/ | https://github.com/ignaciojsoler/kronorecords
+- [Deploy](https://ignaciosoler.netlify.app) | [Repositorio](https://github.com/ignaciojsoler/kronorecords)
 
 
 <!--
