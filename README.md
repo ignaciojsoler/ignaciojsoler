@@ -36,10 +36,10 @@
 
 ###  - <h3>Krono Records</h3>
 <p>Página web que desarrollé para mi emprendimiento profesional, donde compongo música para cine y videojuegos: </p>
-<p align="center">
+<a href="https://kronorecords.netlify.app/" target="_blank">
   <img src="img/krono.png" height=500px>
-</p>
-- [Deploy] (https://ignaciosoler.netlify.app) | [Repositorio](https://github.com/ignaciojsoler/kronorecords)
+</a>
+- [Deploy](https://kronorecords.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/kronorecords/)
 
 
 
