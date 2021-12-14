@@ -1,6 +1,8 @@
 ### Hola! 👋
 - Soy Ignacio soler, estudiante de desarrollo web. Me apasionan la tecnología y el aprendizaje constante. Acá vas a poder encontrar los proyectos en los que estoy trabajando.
 
+<hr>
+
 ### 🧠 | Mis habilidades:
 - HTML5
 - CSS3
@@ -11,17 +13,24 @@
 - Figma
 - Adobe Xd
 
+<hr>
+
 ### 🌱 | Estoy aprendiendo:
 - React
 - Angular
+
+<hr>
 
 ### 📫 | Contacto:
 - Linkedin: https://www.linkedin.com/in/ignaciojsoler
 - Email: ignaciojsoler@gmail.com
 
+<hr>
+
 ### 😄 | Mi Landing Page
 - Descargá mi curriculum y accedé a todo mi portfolio directamente desde [mi página web personal](https://ignaciosoler.netlify.app/)
 
+<hr>
 
 ### ⚡ | Mis proyectos:
 
