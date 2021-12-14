@@ -34,12 +34,26 @@
 
 ### ⚡ | Mis proyectos:
 
-###  - <h3>Krono Records</h3>
+###  <h3>Krono Records</h3>
 <p>Página web que desarrollé para mi emprendimiento profesional, donde compongo música para cine y videojuegos: </p>
 
 [Deploy](https://kronorecords.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/kronorecords/)
 
 <p align="center"><img src="img/krono.png" height="500px"></p>
+
+###  <h3>Weather App</h3>
+<p>Aplicación web meteorológica que desarrollé para practicar la interracción con APIs:</p>
+
+[Deploy](https://apis-weather.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/weatherapp)
+
+<p align="center"><img src="img/weather.png" height="500px"></p>
+
+###  <h3>Discográfica</h3>
+<p>ChillJazz es una discográfica ficticia producto de mi imaginación, basada en una de mis grandes pasiones: la música</p>
+
+[Deploy](https://chilljazz.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/chilljazz)
+
+<p align="center"><img src="img/weather.png" height="500px"></p>
 
 <!--
 **ignaciojsoler/ignaciojsoler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
