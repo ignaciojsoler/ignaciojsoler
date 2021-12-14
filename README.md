@@ -1,7 +1,7 @@
 ### Hola! 👋
 - Soy Ignacio soler, estudiante de desarrollo web. Me apasionan la tecnología y el aprendizaje constante. Acá vas a poder encontrar los proyectos en los que estoy trabajando.
 
-### 🧠 Mis habilidades:
+### 🧠 | Mis habilidades:
 - HTML5
 - CSS3
 - Bootstrap
@@ -11,21 +11,21 @@
 - Figma
 - Adobe Xd
 
-### 🌱 Estoy aprendiendo:
+### 🌱 | Estoy aprendiendo:
 - React
 - Angular
 
-### 📫 Contacto:
+### 📫 | Contacto:
 - Linkedin: https://www.linkedin.com/in/ignaciojsoler
 - Email: ignaciojsoler@gmail.com
 
-### 😄 Mi Landing Page
+### 😄 | Mi Landing Page
 - Descargá mi curriculum y accedé a todo mi portfolio directamente desde [mi página web personal](https://ignaciosoler.netlify.app/)
 
 
-### ⚡ Mis proyectos:
+### ⚡ | Mis proyectos:
 
-###   <h6>Krono Records</h6>
+###   <h3>Krono Records</h3>
 - Página web que desarrollé para mi emprendimiento profesional, donde compongo música para cine y videojuegos:
 <p align="center">
   <img src="img/krono.png" height=500px>
