@@ -34,8 +34,8 @@
 
 ### ⚡ | Mis proyectos:
 
-###   <h3>Krono Records</h3>
-- Página web que desarrollé para mi emprendimiento profesional, donde compongo música para cine y videojuegos:
+###  - <h3>Krono Records</h3>
+<p>Página web que desarrollé para mi emprendimiento profesional, donde compongo música para cine y videojuegos: </p>
 <p align="center">
   <img src="img/krono.png" height=500px>
 </p>
