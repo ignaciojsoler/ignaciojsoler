@@ -34,6 +34,14 @@
 
 ### ⚡ | Mis proyectos:
 
+###  <h3>Travel & Adventure Website</h3>
+<p>Website estático con temática de viajes y aventuras.</p>
+
+[Deploy](https://travelandadventure.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/travelandadventure)
+
+<p align="center"><img src="img/travel.png" height="500px"></p>
+
+
 ###  <h3>Krono Records</h3>
 <p>Página web que desarrollé para mi emprendimiento profesional, donde compongo música para cine y videojuegos: </p>
 
