@@ -7,8 +7,9 @@
 - HTML5
 - CSS3
 - Bootstrap
-- JavaScript
 - SASS
+- JavaScript
+- React
 - WordPress
 - Figma
 - Adobe Xd
@@ -16,8 +17,9 @@
 <hr>
 
 ### 🌱 | Estoy aprendiendo:
-- React
-- Angular
+- Typescript
+- Java
+- Python
 
 <hr>
 
