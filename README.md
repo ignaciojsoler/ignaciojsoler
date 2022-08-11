@@ -37,7 +37,7 @@
 <hr>
 
 ### 😄 | Mi Landing Page
-- Descargá mi curriculum y accedé a todo mi portfolio directamente desde [mi página web personal](https://ignaciosoler.netlify.app/)
+- Mi portfolio se encuentra en desarrollo en este momento :)
 
 <hr>
 
