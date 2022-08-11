@@ -8,11 +8,18 @@
 - CSS3
 - Bootstrap
 - SASS
+- Tailwind CSS
 - JavaScript
 - React
+- Redux
+- SQL
+- Firebase
 - WordPress
 - Figma
 - Adobe Xd
+- Illustrator
+- Photoshop
+- Git/Github
 
 <hr>
 
