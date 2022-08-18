@@ -65,7 +65,14 @@
 
 <p align="center"><img src="img/movies.png" margin="auto"></p>
 
-###  <h3>Krono Records (2021)</h3>
+###  <h3>Aplicación CRUD - Organizador de tareas (2022)</h3>
+<p>Aplicación web que desarrollé en React JS para organizar tareas: </p>
+
+[Repositorio](https://github.com/ignaciojsoler/todo-app-react)
+
+<p align="center"><img src="img/todo-app.png" margin="auto"></p>
+
+###  <h3>Krono Records (2022)</h3>
 <p>Página web que desarrollé para mi emprendimiento profesional, donde compongo música para cine y videojuegos: </p>
 
 [Repositorio](https://github.com/ignaciojsoler/kronorecords-react)
