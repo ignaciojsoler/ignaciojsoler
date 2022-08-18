@@ -87,7 +87,7 @@
 <p align="center"><img src="img/travel.png" margin="auto"></p>
 
 ###  <h3>Weather App (2021)</h3>
-<p>Aplicación web meteorológica que desarrollé para practicar la interracción con APIs:</p>
+<p>Aplicación web meteorológica que desarrollé utilizando la API de Open Weather:</p>
 
 [Deploy](https://apis-weather.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/weatherapp)
 
