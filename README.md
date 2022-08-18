@@ -1,5 +1,5 @@
 ### Hola! 👋
-- Soy Ignacio soler, estudiante de desarrollo web. Me apasionan la tecnología y el aprendizaje constante. Acá vas a poder encontrar los proyectos en los que estoy trabajando.
+- Soy Ignacio soler, desarrollador web. Estoy estudiando la tecnicatura de desarrollo web y apliaciones digitales en el Instituto Superior Politécnico Córdoba y realizando un bootcamp de diseño UX/UI en NUCBA. Me apasionan la tecnología y el aprendizaje constante. Acá vas a poder encontrar algunos de los proyectos en los que trabajé.
 
 <hr>
 
@@ -10,11 +10,12 @@
 - SASS
 - Tailwind CSS
 - JavaScript
+- Typescript
 - React
 - Redux
+- NPM
 - SQL
 - Firebase
-- WordPress
 - Figma
 - Adobe Xd
 - Illustrator
@@ -24,9 +25,9 @@
 <hr>
 
 ### 🌱 | Estoy aprendiendo:
-- Typescript
-- Java
-- Python
+- Diseño UI/UX
+- Testing QA
+- Node JS
 
 <hr>
 
@@ -42,6 +43,13 @@
 <hr>
 
 ### ⚡ | Mis proyectos:
+
+###  <h3>Krono Records</h3>
+<p>Página web que desarrollé para mi emprendimiento profesional, donde compongo música para cine y videojuegos: </p>
+
+[Deploy](https://kronorecords.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/kronorecords/)
+
+<p align="center"><img src="img/krono.png" margin="auto"></p>
 
 ###  <h3>Travel & Adventure Website</h3>
 <p>Website estático con temática de viajes y aventuras.</p>
