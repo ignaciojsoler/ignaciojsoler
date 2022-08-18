@@ -44,41 +44,54 @@
 
 ### ⚡ | Mis proyectos:
 
-###  <h3>Krono Records</h3>
+###  <h3>E-commerce (2022)</h3>
+<p>E-commerce desarrollado con React JS, Redux y Firebase: </p>
+
+[Repositorio](https://github.com/ignaciojsoler/ecommerce-redux)
+
+<p align="center"><img src="img/ecommerce.png" margin="auto"></p>
+
+###  <h3>Clon de Disney + (2022)</h3>
+<p>Aplicación web inspirada en Disney+ que desarrollé en Typescript para una prueba técnica: </p>
+
+[Repositorio](https://github.com/ignaciojsoler/challenge-bemaster)
+
+<p align="center"><img src="img/disney.png" margin="auto"></p>
+
+###  <h3>Aplicación web de películas (2022)</h3>
+<p>Aplicación web de películas que realicé utilizando la API de The Movie Database: </p>
+
+[Repositorio](https://github.com/ignaciojsoler/alkemy-skillup)
+
+<p align="center"><img src="img/movies.png" margin="auto"></p>
+
+###  <h3>Krono Records (2021)</h3>
 <p>Página web que desarrollé para mi emprendimiento profesional, donde compongo música para cine y videojuegos: </p>
 
-[Deploy](https://kronorecords.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/kronorecords/)
+[Repositorio](https://github.com/ignaciojsoler/kronorecords-react)
 
 <p align="center"><img src="img/krono.png" margin="auto"></p>
 
-###  <h3>Travel & Adventure Website</h3>
+###  <h3>Travel & Adventure Website (2021)</h3>
 <p>Website estático con temática de viajes y aventuras.</p>
 
 [Deploy](https://travelandadventure.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/travelandadventure)
 
-<p align="center"><img src="img/travel.png" height="500px"></p>
+<p align="center"><img src="img/travel.png" margin="auto"></p>
 
-
-###  <h3>Krono Records</h3>
-<p>Página web que desarrollé para mi emprendimiento profesional, donde compongo música para cine y videojuegos: </p>
-
-[Deploy](https://kronorecords.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/kronorecords/)
-
-<p align="center"><img src="img/krono.png" height="500px"></p>
-
-###  <h3>Weather App</h3>
+###  <h3>Weather App (2021)</h3>
 <p>Aplicación web meteorológica que desarrollé para practicar la interracción con APIs:</p>
 
 [Deploy](https://apis-weather.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/weatherapp)
 
-<p align="center"><img src="img/weather.png" height="500px"></p>
+<p align="center"><img src="img/weather.png" margin="auto"></p>
 
-###  <h3>Discográfica</h3>
+###  <h3>Discográfica (2021)</h3>
 <p>ChillJazz es una discográfica ficticia producto de mi imaginación, basada en una de mis grandes pasiones: la música</p>
 
 [Deploy](https://chilljazz.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/chilljazz)
 
-<p align="center"><img src="img/chilljazz.png" height="500px"></p>
+<p align="center"><img src="img/chilljazz.png" margin="auto"></p>
 
 <!--
 **ignaciojsoler/ignaciojsoler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
