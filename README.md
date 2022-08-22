@@ -94,7 +94,7 @@
 <p align="center"><img src="img/weather.png" margin="auto"></p>
 
 ###  <h3>Discográfica (2021)</h3>
-<p>ChillJazz es una discográfica ficticia producto de mi imaginación, basada en una de mis grandes pasiones: la música</p>
+<p>Maquetación web con Bootstrap para compañía discográfica</p>
 
 [Deploy](https://chilljazz.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/chilljazz)
 
