@@ -25,7 +25,8 @@
 <hr>
 
 ### 🌱 | Estoy aprendiendo:
-- Diseño UI/UX
+- Diseño UX/UI
+- React Native
 - Testing QA
 - Node JS
 
