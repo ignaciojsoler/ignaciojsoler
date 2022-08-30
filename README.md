@@ -48,14 +48,14 @@
 ###  <h3>E-commerce (2022)</h3>
 <p>E-commerce desarrollado con React JS, Redux y Firebase: </p>
 
-[Repositorio](https://github.com/ignaciojsoler/ecommerce-redux)
+[Deploy](https://ignaciojsoler.github.io/ecommerce-redux/) | [Repositorio](https://github.com/ignaciojsoler/ecommerce-redux)
 
 <p align="center"><img src="img/ecommerce.png" margin="auto"></p>
 
 ###  <h3>Clon de Disney + (2022)</h3>
 <p>Aplicación web inspirada en Disney+ que desarrollé en Typescript para una prueba técnica: </p>
 
-[Repositorio](https://github.com/ignaciojsoler/challenge-bemaster)
+[Deploy](https://ignaciojsoler.github.io/challenge-bemaster/) | [Repositorio](https://github.com/ignaciojsoler/challenge-bemaster)
 
 <p align="center"><img src="img/disney.png" margin="auto"></p>
 
@@ -69,7 +69,7 @@
 ###  <h3>Aplicación CRUD - Organizador de tareas (2022)</h3>
 <p>Aplicación web que desarrollé en React JS para organizar tareas: </p>
 
-[Repositorio](https://github.com/ignaciojsoler/todo-app-react)
+[Deploy](https://ignaciojsoler.github.io/todo-app-react/) | [Repositorio](https://github.com/ignaciojsoler/todo-app-react)
 
 <p align="center"><img src="img/todo-app.png" margin="auto"></p>
 
