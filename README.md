@@ -73,21 +73,21 @@
 
 <hr>
 
+###  <h3>Krono Records (2022)</h3>
+<p>Página web que desarrollé para mi emprendimiento profesional, donde compongo música para cine y videojuegos: </p>
+
+[Deploy](https://ignaciojsoler.github.io/kronorecords-react/) | [Repositorio](https://github.com/ignaciojsoler/kronorecords-react)
+
+<p align="center"><img src="img/krono.png" margin="auto"></p>
+
+<hr>
+
 ###  <h3>Clon de Disney + (2022)</h3>
 <p>Aplicación web inspirada en Disney+ que desarrollé en Typescript para una prueba técnica: </p>
 
 [Deploy](https://ignaciojsoler.github.io/challenge-bemaster/) | [Repositorio](https://github.com/ignaciojsoler/challenge-bemaster)
 
 <p align="center"><img src="img/disney.png" margin="auto"></p>
-
-<hr>
-
-###  <h3>Krono Records (2022)</h3>
-<p>Página web que desarrollé para mi emprendimiento profesional, donde compongo música para cine y videojuegos: </p>
-
-[Repositorio](https://github.com/ignaciojsoler/kronorecords-react)
-
-<p align="center"><img src="img/krono.png" margin="auto"></p>
 
 <hr>
 
