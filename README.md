@@ -53,12 +53,16 @@
 
 <p align="center"><img src="img/ecommerce.png" margin="auto"></p>
 
+<hr>
+
 ###  <h3>Clon de Disney + (2022)</h3>
 <p>Aplicación web inspirada en Disney+ que desarrollé en Typescript para una prueba técnica: </p>
 
 [Deploy](https://ignaciojsoler.github.io/challenge-bemaster/) | [Repositorio](https://github.com/ignaciojsoler/challenge-bemaster)
 
 <p align="center"><img src="img/disney.png" margin="auto"></p>
+
+<hr>
 
 ###  <h3>Aplicación web de películas (2022)</h3>
 <p>Aplicación web de películas que realicé utilizando la API de The Movie Database: </p>
@@ -67,12 +71,16 @@
 
 <p align="center"><img src="img/movies.png" margin="auto"></p>
 
+<hr>
+
 ###  <h3>Aplicación CRUD - Organizador de tareas (2022)</h3>
 <p>Aplicación web que desarrollé en React JS para organizar tareas: </p>
 
 [Deploy](https://ignaciojsoler.github.io/todo-app-react/) | [Repositorio](https://github.com/ignaciojsoler/todo-app-react)
 
 <p align="center"><img src="img/todo-app.png" margin="auto"></p>
+
+<hr>
 
 ###  <h3>Krono Records (2022)</h3>
 <p>Página web que desarrollé para mi emprendimiento profesional, donde compongo música para cine y videojuegos: </p>
@@ -81,6 +89,8 @@
 
 <p align="center"><img src="img/krono.png" margin="auto"></p>
 
+<hr>
+
 ###  <h3>Travel & Adventure Website (2021)</h3>
 <p>Website estático con temática de viajes y aventuras.</p>
 
@@ -88,12 +98,16 @@
 
 <p align="center"><img src="img/travel.png" margin="auto"></p>
 
+<hr>
+
 ###  <h3>Weather App (2021)</h3>
 <p>Aplicación web meteorológica que desarrollé utilizando la API de Open Weather:</p>
 
 [Deploy](https://apis-weather.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/weatherapp)
 
 <p align="center"><img src="img/weather.png" margin="auto"></p>
+
+<hr>
 
 ###  <h3>Discográfica (2021)</h3>
 <p>Maquetación web con Bootstrap para compañía discográfica</p>
