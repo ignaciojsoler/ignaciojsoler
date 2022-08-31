@@ -22,23 +22,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-- HTML5
-- CSS3
-- Bootstrap
-- SASS
-- Tailwind CSS
-- JavaScript
-- Typescript
-- React
-- Redux
-- NPM
-- SQL
-- Firebase
-- Figma
-- Adobe Xd
-- Illustrator
-- Photoshop
-- Git/Github
 
 <hr>
 
