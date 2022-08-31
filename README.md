@@ -52,7 +52,6 @@
 [Deploy](https://ignaciojsoler.github.io/ecommerce-redux/) | [Repositorio](https://github.com/ignaciojsoler/ecommerce-redux)
 
 <p align="center"><img src="img/ecommerce.png" margin="auto"></p>
-<p align="center">[![E-commerce](img/ecommerce.png)](https://github.com/ignaciojsoler/ecommerce-redux)</p>
 
 <hr>
 
