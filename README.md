@@ -55,15 +55,6 @@
 
 <hr>
 
-###  <h3>Clon de Disney + (2022)</h3>
-<p>Aplicación web inspirada en Disney+ que desarrollé en Typescript para una prueba técnica: </p>
-
-[Deploy](https://ignaciojsoler.github.io/challenge-bemaster/) | [Repositorio](https://github.com/ignaciojsoler/challenge-bemaster)
-
-<p align="center"><img src="img/disney.png" margin="auto"></p>
-
-<hr>
-
 ###  <h3>Aplicación web de películas (2022)</h3>
 <p>Aplicación web de películas que realicé utilizando la API de The Movie Database: </p>
 
@@ -79,6 +70,15 @@
 [Deploy](https://ignaciojsoler.github.io/todo-app-react/) | [Repositorio](https://github.com/ignaciojsoler/todo-app-react)
 
 <p align="center"><img src="img/todo-app.png" margin="auto"></p>
+
+<hr>
+
+###  <h3>Clon de Disney + (2022)</h3>
+<p>Aplicación web inspirada en Disney+ que desarrollé en Typescript para una prueba técnica: </p>
+
+[Deploy](https://ignaciojsoler.github.io/challenge-bemaster/) | [Repositorio](https://github.com/ignaciojsoler/challenge-bemaster)
+
+<p align="center"><img src="img/disney.png" margin="auto"></p>
 
 <hr>
 
