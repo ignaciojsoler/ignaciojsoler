@@ -55,12 +55,12 @@
 
 <hr>
 
-###  <h3>Aplicación web de películas (2022)</h3>
-<p>Aplicación web de películas que realicé utilizando la API de The Movie Database: </p>
+###  <h3>Clon de Disney + (2022)</h3>
+<p>Aplicación web inspirada en Disney+ que desarrollé en Typescript para una prueba técnica: </p>
 
-[Repositorio](https://github.com/ignaciojsoler/alkemy-skillup)
+[Deploy](https://ignaciojsoler.github.io/challenge-bemaster/) | [Repositorio](https://github.com/ignaciojsoler/challenge-bemaster)
 
-<p align="center"><img src="img/movies.png" margin="auto"></p>
+<p align="center"><img src="img/disney.png" margin="auto"></p>
 
 <hr>
 
@@ -82,12 +82,12 @@
 
 <hr>
 
-###  <h3>Clon de Disney + (2022)</h3>
-<p>Aplicación web inspirada en Disney+ que desarrollé en Typescript para una prueba técnica: </p>
+###  <h3>Aplicación web de películas (2022)</h3>
+<p>Aplicación web de películas que realicé utilizando la API de The Movie Database: </p>
 
-[Deploy](https://ignaciojsoler.github.io/challenge-bemaster/) | [Repositorio](https://github.com/ignaciojsoler/challenge-bemaster)
+[Repositorio](https://github.com/ignaciojsoler/alkemy-skillup)
 
-<p align="center"><img src="img/disney.png" margin="auto"></p>
+<p align="center"><img src="img/movies.png" margin="auto"></p>
 
 <hr>
 
