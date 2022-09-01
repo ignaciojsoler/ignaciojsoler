@@ -96,7 +96,7 @@
 
 [Deploy](https://travelandadventure.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/travelandadventure)
 
-<p align="center"><img src="img/travel.png" margin="auto"></p>
+<p align="center"><img src="img/travelAndAdventure.png" margin="auto"></p>
 
 <hr>
 
