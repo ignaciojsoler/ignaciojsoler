@@ -51,7 +51,7 @@
 
 [Deploy](https://ignaciojsoler.github.io/ecommerce-redux/) | [Repositorio](https://github.com/ignaciojsoler/ecommerce-redux)
 
-<p align="center"><img src="img/ecommerce.png" margin="auto"></p>
+<p align="center"><img src="img/ecommerce.webp" margin="auto"></p>
 
 <hr>
 
@@ -60,7 +60,7 @@
 
 [Deploy](https://ignaciojsoler.github.io/challenge-bemaster/) | [Repositorio](https://github.com/ignaciojsoler/challenge-bemaster)
 
-<p align="center"><img src="img/disney.png" margin="auto"></p>
+<p align="center"><img src="img/disney.webp" margin="auto"></p>
 
 <hr>
 
@@ -69,7 +69,7 @@
 
 [Deploy](https://ignaciojsoler.github.io/todo-app-react/) | [Repositorio](https://github.com/ignaciojsoler/todo-app-react)
 
-<p align="center"><img src="img/todo-app.png" margin="auto"></p>
+<p align="center"><img src="img/todo-app.webp" margin="auto"></p>
 
 <hr>
 
@@ -78,7 +78,7 @@
 
 [Deploy](https://ignaciojsoler.github.io/kronorecords-react/) | [Repositorio](https://github.com/ignaciojsoler/kronorecords-react)
 
-<p align="center"><img src="img/krono.png" margin="auto"></p>
+<p align="center"><img src="img/krono.webp" margin="auto"></p>
 
 <hr>
 
@@ -87,7 +87,7 @@
 
 [Repositorio](https://github.com/ignaciojsoler/alkemy-skillup)
 
-<p align="center"><img src="img/movies.png" margin="auto"></p>
+<p align="center"><img src="img/movies.webp" margin="auto"></p>
 
 <hr>
 
@@ -96,7 +96,7 @@
 
 [Deploy](https://travelandadventure.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/travelandadventure)
 
-<p align="center"><img src="img/travelAndAdventure.png" margin="auto"></p>
+<p align="center"><img src="img/travelAndAdventure.webp" margin="auto"></p>
 
 <hr>
 
