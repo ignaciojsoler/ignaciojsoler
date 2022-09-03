@@ -40,7 +40,11 @@
 <hr>
 
 ### 😄 | Mi Landing Page
-- Mi portfolio se encuentra en desarrollo en este momento :)
+- Podés encontrar las últimas novedades sobre mis proyectos, mi portfolio, las tecnologías que utilizo y los servicios que ofrezco en mi Landing Page :)
+
+[Deploy](https://ignaciojsoler.github.io/portfolio/) | [Repositorio](https://github.com/ignaciojsoler/portfolio)
+
+<p align="center"><img src="img/portfolio.webp" margin="auto"></p>
 
 <hr>
 
