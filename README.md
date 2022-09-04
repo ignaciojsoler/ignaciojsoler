@@ -40,7 +40,7 @@
 <hr>
 
 ### 😄 | Mi Landing Page
-Podés encontrar las últimas novedades sobre mis proyectos, las tecnologías que utilizo y los servicios que ofrezco en mi landing Page 🚀: https://ignaciojsoler.github.io/portfolio/
+Podés encontrar las últimas novedades sobre mis proyectos, las tecnologías que utilizo y los servicios que ofrezco en mi landing page 🚀: https://ignaciojsoler.github.io/portfolio/
 
 [Deploy](https://ignaciojsoler.github.io/portfolio/) | [Repositorio](https://github.com/ignaciojsoler/portfolio)
 
