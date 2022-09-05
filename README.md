@@ -26,10 +26,9 @@
 <hr>
 
 ### 🌱 | Estoy aprendiendo:
-- Diseño UX/UI
 - React Native
 - Testing QA
-- Node JS
+- Backend (MongoDB/Express/NodeJS)
 
 <hr>
 
