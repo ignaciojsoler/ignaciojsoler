@@ -1,5 +1,5 @@
 ### Hola! 👋
-- Soy Ignacio soler, desarrollador web. Estoy estudiando la tecnicatura de desarrollo web y apliaciones digitales en el Instituto Superior Politécnico Córdoba y realizando un bootcamp de diseño UX/UI en NUCBA. Me apasionan la tecnología y el aprendizaje constante. Acá vas a poder encontrar algunos de los proyectos en los que trabajé.
+- Soy Ignacio soler, desarrollador web y diseñador UX/UI. Estoy estudiando la tecnicatura de desarrollo web y apliaciones digitales en el Instituto Superior Politécnico Córdoba y realizando un bootcamp de diseño UX/UI en NUCBA. Me apasionan la tecnología y el aprendizaje constante. Acá vas a poder encontrar algunos de los proyectos en los que trabajé.
 
 <hr>
 
