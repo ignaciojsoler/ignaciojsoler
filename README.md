@@ -27,7 +27,6 @@
 
 ### 🌱 | Estoy aprendiendo:
 - React Native
-- Testing QA
 - Backend (MongoDB/Express/NodeJS)
 
 <hr>
