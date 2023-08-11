@@ -11,7 +11,7 @@ I thrive in collaborative team environments where creativity and innovation flou
 
 <hr>
 
-### 🧠 | Mis habilidades:
+### 🧠 | Skills:
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,98 +37,93 @@ I thrive in collaborative team environments where creativity and innovation flou
 
 <hr>
 
-### 🌱 | Estoy aprendiendo:
-- React Native
-- Backend (MongoDB/Express/NodeJS)
-
-<hr>
-
-### 📫 | Contacto:
+### 📫 | Contact:
 - Linkedin: https://www.linkedin.com/in/ignaciojsoler
 - Email: ignaciojsoler@gmail.com
 
 <hr>
 
-### 😄 | Mi Landing Page
-Podés encontrar las últimas novedades sobre mis proyectos, las tecnologías que utilizo y los servicios que ofrezco en mi landing page 🚀 
+### 😄 | Landing Page
+You can find the latest news about my projects, the technologies I use and the services I offer on my landing page 🚀 
 
 https://ignaciojsoler.github.io/landing-page/
 
-[Deploy](https://ignaciojsoler.github.io/landing-page/) | [Repositorio](https://github.com/ignaciojsoler/landing-page)
+[Deploy](https://ignaciojsoler.github.io/landing-page/) | [Repository](https://github.com/ignaciojsoler/landing-page)
 
 <p align="center"><img src="img/portfolio.webp" margin="auto"></p>
 
 <hr>
 
-### ⚡ | Mis proyectos:
+### ⚡ | My projects:
 
 ###  <h3>E-commerce (2022)</h3>
-<p>E-commerce desarrollado con React JS, Redux y Firebase: </p>
+<p>E-commerce developed with React JS, Redux and Firebase: </p>
 
-[Deploy](https://ignaciojsoler.github.io/ecommerce-redux/) | [Repositorio](https://github.com/ignaciojsoler/ecommerce-redux)
+[Deploy](https://ignaciojsoler.github.io/ecommerce-redux/) | [Repository](https://github.com/ignaciojsoler/ecommerce-redux)
 
 <p align="center"><img src="img/ecommerce.webp" margin="auto"></p>
 
 <hr>
 
-###  <h3>Clon de Disney + (2022)</h3>
-<p>Aplicación web inspirada en Disney+ que desarrollé en Typescript para una prueba técnica: </p>
+###  <h3>Disney+ Clone (2022)</h3>
+<p>Web application inspired in Disney+ developed with Typescript + React: </p>
 
-[Deploy](https://ignaciojsoler.github.io/challenge-bemaster/) | [Repositorio](https://github.com/ignaciojsoler/challenge-bemaster)
+[Deploy](https://ignaciojsoler.github.io/challenge-bemaster/) | [Repository](https://github.com/ignaciojsoler/challenge-bemaster)
 
 <p align="center"><img src="img/disney.webp" margin="auto"></p>
 
 <hr>
 
-###  <h3>Aplicación CRUD - Organizador de tareas (2022)</h3>
-<p>Aplicación web que desarrollé en React JS para organizar tareas: </p>
+###  <h3>CRUD App - Tasks organizer (2022)</h3>
+<p>Web application developed with React for organize tasks: </p>
 
-[Deploy](https://ignaciojsoler.github.io/todo-app-react/) | [Repositorio](https://github.com/ignaciojsoler/todo-app-react)
+[Deploy](https://ignaciojsoler.github.io/todo-app-react/) | [Repository](https://github.com/ignaciojsoler/todo-app-react)
 
 <p align="center"><img src="img/todo-app.webp" margin="auto"></p>
 
 <hr>
 
 ###  <h3>Krono Records (2022)</h3>
-<p>Página web que desarrollé para mi emprendimiento profesional, donde compongo música para cine y videojuegos: </p>
+<p>Website developed for my profesional music entrepreneurship, where i compose music for cinema and videogames: </p>
 
-[Deploy](https://ignaciojsoler.github.io/kronorecords-react/) | [Repositorio](https://github.com/ignaciojsoler/kronorecords-react)
+[Deploy](https://ignaciojsoler.github.io/kronorecords-react/) | [Repository](https://github.com/ignaciojsoler/kronorecords-react)
 
 <p align="center"><img src="img/krono.webp" margin="auto"></p>
 
 <hr>
 
-###  <h3>Aplicación web de películas (2022)</h3>
+###  <h3>Movies web app (2022)</h3>
 <p>Aplicación web de películas que realicé utilizando la API de The Movie Database: </p>
+<p>Movies web application developed using The Movie Database API: </p>
 
-[Repositorio](https://github.com/ignaciojsoler/alkemy-skillup)
+[Repository](https://github.com/ignaciojsoler/alkemy-skillup)
 
 <p align="center"><img src="img/movies.webp" margin="auto"></p>
 
 <hr>
 
 ###  <h3>Travel & Adventure Website (2021)</h3>
-<p>Website estático con temática de viajes y aventuras.</p>
+<p>Static website for travel and adventure</p>
 
-[Deploy](https://travelandadventure.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/travelandadventure)
+[Deploy](https://travelandadventure.netlify.app/) | [Repository](https://github.com/ignaciojsoler/travelandadventure)
 
 <p align="center"><img src="img/travelAndAdventure.webp" margin="auto"></p>
 
 <hr>
 
 ###  <h3>Weather App (2021)</h3>
-<p>Aplicación web meteorológica que desarrollé utilizando la API de Open Weather:</p>
+<p>Weather web application that I developed using the Open Weather API:</p>
 
-[Deploy](https://apis-weather.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/weatherapp)
+[Deploy](https://apis-weather.netlify.app/) | [Repository](https://github.com/ignaciojsoler/weatherapp)
 
 <p align="center"><img src="img/weather.png" margin="auto"></p>
 
 <hr>
 
-###  <h3>Discográfica (2021)</h3>
-<p>Maquetación web con Bootstrap para compañía discográfica</p>
+###  <h3>Record label static site (2021)</h3>
+<p>Web design with Bootstrap for a record label company</p>
 
-[Deploy](https://chilljazz.netlify.app/) | [Repositorio](https://github.com/ignaciojsoler/chilljazz)
+[Deploy](https://chilljazz.netlify.app/) | [Repository](https://github.com/ignaciojsoler/chilljazz)
 
 <p align="center"><img src="img/chilljazz.png" margin="auto"></p>
 
