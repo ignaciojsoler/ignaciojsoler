@@ -1,5 +1,13 @@
-### Hola! 👋
-- Soy Ignacio soler, desarrollador web y diseñador UX/UI. Estoy estudiando la tecnicatura de desarrollo web y apliaciones digitales en el Instituto Superior Politécnico Córdoba y realizando un bootcamp de diseño UX/UI en NUCBA. Me apasionan la tecnología, el arte y el aprendizaje constante. Acá vas a poder encontrar algunos de los proyectos en los que trabajé.
+### Hi! 👋
+I'm a Fullstack Developer and UX/UI Designer with expertise in transforming creative ideas into seamless digital solutions. With a strong focus on frontend development, I specialize in JavaScript, TypeScript, and a range of frameworks and libraries including React, React Native and Next.js. I also have experience with Module Federation for microfrontends architecture. I'm driven by a deep appreciation for captivating user experiences.
+
+In addition to my frontend skills, I possess a solid foundation in backend development. I'm proficient in Node.js, Express, and have hands-on experience with databases like MongoDB, MySQL, postgreSQL and Firebase. I also use ORM libraries such as Mongoose and Prisma. This comprehensive knowledge allows me to architect robust and scalable applications, ensuring optimal performance and efficient data management.
+
+As a UX/UI designer, I leverage tools such as Figma, Photoshop, and Illustrator to craft visually stunning and intuitive designs. I pay meticulous attention to detail and a user-centric approach guide every interaction, resulting in delightful experiences across platforms.
+
+Furthermore, I have experience working with CMS platforms like WordPress, enabling efficient content management and empowering clients to maintain their websites easily.
+
+I thrive in collaborative team environments where creativity and innovation flourish. I excel in working closely with cross-functional teams to achieve exceptional results.
 
 <hr>
 
