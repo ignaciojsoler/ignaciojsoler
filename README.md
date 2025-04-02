@@ -8,7 +8,7 @@ Experienced Full-stack Developer and UX/UI Designer from Argentina <img src="htt
 
 - 💻 **Frontend Development:** HTML, CSS, Tailwind CSS, SASS, JavaScript, Typescript, React, Next.js, Vue.js, Svelte
 - 🛠️ **Backend Development:** Node.js, Express.js, NestJS, Javascript, Typescript
-- 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB, Firebase
+- 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB, Firebase, Supabase
 - 🌐 **Content Management Systems:** WordPress, Webflow
 - 🎨 **Design Tools:** Figma, Photoshop, Illustrator
 - 🔄 **Version Control:** Git
