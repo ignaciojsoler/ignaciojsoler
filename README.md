@@ -23,4 +23,4 @@ I thrive on the intersection of development and design, channeling my passion fo
 
 ## Portfolio
 
-🚀 Check out some of my projects on [my website](https://www.ignacio.website)
+🚀 Check out some of my projects on [my website](https://www.ignaciosoler.com)
