@@ -1,4 +1,4 @@
-# Hi there, I'm Ignacio Soler! ![Hi there!](https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738) 
+# Hi there, I'm Ignacio Soler!
 
 
 
