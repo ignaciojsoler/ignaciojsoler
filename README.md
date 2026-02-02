@@ -1,8 +1,7 @@
 # Hi, I’m Ignacio Soler
 
-**Full-Stack Software Developer**  
+**Full-Stack Software Developer from Argentina**  
 React · Next.js · TypeScript · Node.js  
-Argentina
 
 ## About Me
 
