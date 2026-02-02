@@ -1,17 +1,54 @@
-# Hi there, I'm Ignacio Soler!
+# Hi, I’m Ignacio Soler
 
-
-
-Experienced Full-stack Developer and UX/UI Designer from Argentina <img src="https://cdn-icons-png.flaticon.com/512/197/197573.png" alt="Argentina" width="16" /> <br/>
+**Full-Stack Software Developer**  
+React · Next.js · TypeScript · Node.js  
+Argentina
 
 ## About Me
 
-I thrive on the intersection of development and design, channeling my passion for crafting seamless user experiences into every project I undertake. With extensive experience as both a Full-stack Developer and UX/UI Designer, I bring a unique perspective to each endeavor. My approach revolves around creating beautiful and functional web experiences, utilizing clean and efficient code as my tool of choice. Through continuous learning and innovation, I strive to push the boundaries of what's possible in digital creation.
+I am a full-stack software developer with a background in UX/UI design. I have experience building and maintaining production-ready web applications, with an emphasis on code quality, scalability, and long-term maintainability.
 
-## Get in Touch
+I work across the full development lifecycle, from understanding product requirements to designing user-centered interfaces and implementing robust technical solutions. I value clean architecture, clear communication, and continuous improvement.
 
-📫 You can reach out to me via [email](mailto:ignaciojsoler@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ignaciojsoler).
+## Professional Focus
 
-## Portfolio
+- Development of modern web applications using React, Next.js, and TypeScript
+- Scalable frontend architectures and reusable component systems
+- Backend development with Node.js and NestJS
+- REST and GraphQL API integration
+- UX/UI-driven interfaces focused on usability and clarity
+- Collaboration in agile teams, code reviews, and technical decision-making
 
-🚀 Check out some of my projects on [my website](https://www.ignaciosoler.com)
+## Tech Stack
+
+### Frontend
+- React
+- Next.js
+- TypeScript, JavaScript
+- HTML, CSS, Tailwind, Sass
+- Redux, React Query, Apollo GraphQL
+
+### Backend
+- Node.js, Express, NestJS
+- REST APIs, GraphQL
+- PostgreSQL, MongoDB, Redis
+- Prisma, TypeORM
+- Supabase
+
+### Tools & Practices
+- Git, Gitflow
+- Docker
+- Figma
+- Cursor/Claude Code
+
+## Current Interests
+
+- SaaS product development
+- Backend architecture
+- System design and performance optimization
+
+## Contact
+
+- Email: ignaciojsoler@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ignaciojsoler
+- Portfolio: https://www.ignaciosoler.com
