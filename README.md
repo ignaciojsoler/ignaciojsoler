@@ -1,53 +1,84 @@
-# Hi, I’m Ignacio Soler
+<a href="https://www.ignaciosoler.com">
+  <img src="./assets/header.svg" alt="Ignacio Soler — Full-Stack Engineer" width="100%"/>
+</a>
 
-**Full-Stack Software Developer from Argentina**  
-React · Next.js · TypeScript · Node.js  
+<p align="center">
+  <a href="https://www.ignaciosoler.com"><img src="https://img.shields.io/badge/Portfolio-ignaciosoler.com-d8ff3e?style=for-the-badge&labelColor=08090c" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ignaciojsoler"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=08090c" alt="LinkedIn"/></a>
+  <a href="mailto:ignaciojsoler@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-f4f4f2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=08090c" alt="Email"/></a>
+</p>
 
-## About Me
+<br/>
 
-I am a full-stack software developer with a background in UX/UI design. I have experience building and maintaining production-ready web applications, with an emphasis on code quality, scalability, and long-term maintainability.
+I build production apps **end to end — from the interface to the database.** I've led the payments team behind **Cinépolis**' checkout across Latin America, I build core modules and a RAG-powered AI assistant for **AprendeBA**, an education platform used by every school in Buenos Aires, and I launched **LinkTurno**, my own SaaS, solo.
 
-I work across the full development lifecycle, from understanding product requirements to designing user-centered interfaces and implementing robust technical solutions. I value clean architecture, clear communication, and continuous improvement.
+A background in UX/UI design means the things I ship look as good as they work — my portfolio has been awarded **Site of the Day** by CSS Light twice.
 
-## Professional Focus
+<br/>
 
-- Development of modern web applications using React, Next.js, and TypeScript
-- Scalable frontend architectures and reusable component systems
-- Backend development with Node.js and NestJS
-- REST and GraphQL API integration
-- UX/UI-driven interfaces focused on usability and clarity
-- Collaboration in agile teams, code reviews, and technical decision-making
+## ◆ Featured work
 
-## Tech Stack
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://linkturno.com"><img src="https://www.ignaciosoler.com/og/linkturno.jpg" alt="LinkTurno"/></a>
+      <h3>LinkTurno</h3>
+      <p>Multi-tenant SaaS booking platform for service businesses, built and launched solo. Concurrency-safe scheduling with Postgres advisory locks, subscription billing and Google Calendar sync.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Redis</code></p>
+      <a href="https://linkturno.com"><b>Visit site →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://localailab.vercel.app"><img src="https://www.ignaciosoler.com/og/local-ai-lab.jpg" alt="Local AI Lab"/></a>
+      <h3>Local AI Lab</h3>
+      <p>7 AI demos running Hugging Face models entirely in the browser — WebGPU with WASM fallback, no backend, no API keys, no data leaving the device.</p>
+      <p><code>Astro</code> <code>React</code> <code>Transformers.js</code> <code>WebGPU</code></p>
+      <a href="https://localailab.vercel.app"><b>Live demo →</b></a> · <a href="https://github.com/ignaciojsoler/local-ai-lab"><b>Source</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.ignaciosoler.com/work/aprendeba"><img src="https://www.ignaciosoler.com/og/aprendeba.jpg" alt="AprendeBA"/></a>
+      <h3>AprendeBA</h3>
+      <p>Student-records platform for every school in Buenos Aires. Enrollment, attendance, grading and school transfers, plus a RAG assistant that answers how-to questions in natural language.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code> <code>RAG</code></p>
+      <a href="https://www.ignaciosoler.com/work/aprendeba"><b>Case study →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.ignaciosoler.com/work/cinepolis"><img src="https://www.ignaciosoler.com/og/cinepolis.jpg" alt="Cinépolis"/></a>
+      <h3>Cinépolis</h3>
+      <p>Led payments for the largest cinema chain in Latin America: 5+ gateways, microfrontends with Module Federation and Python services on AWS, serving millions of users.</p>
+      <p><code>Next.js</code> <code>React</code> <code>Python</code> <code>AWS</code> <code>GraphQL</code></p>
+      <a href="https://www.ignaciosoler.com/work/cinepolis"><b>Case study →</b></a>
+    </td>
+  </tr>
+</table>
 
-### Frontend
-- React
-- Next.js
-- TypeScript, JavaScript
-- HTML, CSS, Tailwind, Sass
-- Redux, React Query, Apollo GraphQL
+<br/>
 
-### Backend
-- Node.js, Express, NestJS
-- REST APIs, GraphQL
-- PostgreSQL, MongoDB, Redis
-- Prisma, TypeORM
-- Supabase
+## ◆ Stack
 
-### Tools & Practices
-- Git, Gitflow
-- Docker
-- Figma
-- Cursor/Claude Code
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,astro&theme=dark" alt="Frontend"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,graphql,postgres,prisma,redis,supabase&theme=dark" alt="Backend"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,figma&theme=dark" alt="Cloud & tools"/>
+</p>
 
-## Current Interests
+**AI** — OpenAI API · Hugging Face · RAG · Embeddings · Vector databases · AI agents · MCP · Claude Code
 
-- SaaS product development
-- Backend architecture
-- System design and performance optimization
+<br/>
 
-## Contact
+## ◆ Experience
 
-- Email: ignaciojsoler@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ignaciojsoler
-- Portfolio: https://www.ignaciosoler.com
+| | Role | Company | |
+|:-:|---|---|---|
+| ● | **Full-Stack Engineer** | Phinx Lab — AprendeBA | 2024 → now |
+| ○ | **Full-Stack Engineer** | IA Interactive — Cinépolis | 2022 – 2024 |
+| ○ | **UX/UI Designer** | Dealshop | 2022 |
+
+<br/>
+
+<p align="center">
+  <sub>🏆 Site of the Day — CSS Light 2026 & 2024 · STAR Website — CSS Winner 2024</sub>
+</p>
