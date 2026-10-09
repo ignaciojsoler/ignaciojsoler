@@ -1,0 +1,44 @@
+name: Update profile card
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # daily, 03:00 in Buenos Aires
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/today.py, assets/ascii.txt]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-card
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Render dark_mode.svg / light_mode.svg
+        env:
+          # Optional ACCESS_TOKEN secret (classic PAT, read:user + repo) also
+          # counts private contributions; GITHUB_TOKEN alone sees public ones.
+          GH_TOKEN: ${{ secrets.ACCESS_TOKEN || secrets.GITHUB_TOKEN }}
+          USER_NAME: ${{ github.repository_owner }}
+        run: python scripts/today.py
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dark_mode.svg light_mode.svg cache/loc.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update profile card"
+            git push
+          fi
