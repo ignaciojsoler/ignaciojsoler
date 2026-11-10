@@ -51,6 +51,7 @@ WIDTH = 62  # characters per info line
 INFO_FONT, INFO_LINE = 14, 20
 ART_FONT, ART_LINE = 11, 13
 PAD = 32
+FRAME_S = 0.11  # seconds per frame when assets/ascii.txt holds an animation
 ART_X = PAD
 INFO_X = 492
 SVG_W = INFO_X + round(WIDTH * INFO_FONT * 0.602) + PAD
@@ -246,10 +247,18 @@ def build_lines(stats, today):
 
 # ── SVG ──────────────────────────────────────────────────────────────────
 
-def render(theme, art, lines):
+def load_frames():
+    """assets/ascii.txt holds one portrait, or several frames split by `---`."""
+    raw = (ROOT / "assets/ascii.txt").read_text().rstrip("\n")
+    return [frame.split("\n") for frame in raw.split("\n---\n")]
+
+
+def render(theme, frames, lines):
     c = THEMES[theme]
+    n = len(frames)
+    rows = max(len(f) for f in frames)
     info_h = len(lines) * INFO_LINE
-    art_h = len(art) * ART_LINE
+    art_h = rows * ART_LINE
     height = max(info_h, art_h) + PAD * 2
     art_top = PAD + (height - PAD * 2 - art_h) // 2 + ART_FONT
     info_top = PAD + (height - PAD * 2 - info_h) // 2 + INFO_FONT
@@ -264,15 +273,29 @@ def render(theme, art, lines):
         *(f".{k}{{fill:{c[k]}}}" for k in ("text", "key", "dim", "add", "del")),
         f".cursor{{fill:{c['key']};animation:blink 1.1s steps(1) infinite}}",
         "@keyframes blink{50%{fill-opacity:0}}",
-        "@media (prefers-reduced-motion:reduce){.cursor{animation:none}}",
+    ]
+    reduced = ".cursor{animation:none}"
+    if n > 1:
+        # Every frame is hidden except during its own slot of the loop.
+        out += [
+            f".f{{opacity:0;animation:spin {n * FRAME_S:.2f}s steps(1) infinite}}",
+            f"@keyframes spin{{0%{{opacity:1}}{100 / n:.3f}%{{opacity:0}}100%{{opacity:0}}}}",
+        ]
+        reduced += ".f{animation:none}.f0{opacity:1}"
+    out += [
+        f"@media (prefers-reduced-motion:reduce){{{reduced}}}",
         "</style>",
         f'<rect x="0.5" y="0.5" width="{SVG_W - 1}" height="{height - 1}" rx="14" '
         f'fill="{c["bg"]}" stroke="{c["border"]}"/>',
-        f'<text class="art" xml:space="preserve">',
     ]
-    for i, row in enumerate(art):
-        out.append(f'<tspan x="{ART_X}" y="{art_top + i * ART_LINE}">{escape(row)}</tspan>')
-    out.append("</text>")
+    for k, art in enumerate(frames):
+        cls = f"art f f{k}" if n > 1 else "art"
+        delay = f' style="animation-delay:{k * FRAME_S:.2f}s"' if n > 1 else ""
+        out.append(f'<text class="{cls}"{delay} xml:space="preserve">')
+        for i, row in enumerate(art):
+            if row:
+                out.append(f'<tspan x="{ART_X}" y="{art_top + i * ART_LINE}">{escape(row)}</tspan>')
+        out.append("</text>")
 
     out.append('<text class="info" xml:space="preserve">')
     for i, runs in enumerate(lines):
@@ -286,11 +309,11 @@ def render(theme, art, lines):
 
 
 def main():
-    art = (ROOT / "assets/ascii.txt").read_text().rstrip("\n").split("\n")
+    frames = load_frames()
     stats = fetch_stats()
     lines = build_lines(stats, date.today())
     for theme in THEMES:
-        (ROOT / f"{theme}_mode.svg").write_text(render(theme, art, lines))
+        (ROOT / f"{theme}_mode.svg").write_text(render(theme, frames, lines))
     print(json.dumps({**stats, "created": str(stats["created"])}, indent=2))
 
 

@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
     <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg">
-    <img src="./dark_mode.svg" alt="Ignacio Soler — Full-Stack Engineer. ASCII portrait next to a neofetch-style summary: role, stack, contact and live GitHub stats." width="100%">
+    <img src="./dark_mode.svg" alt="Ignacio Soler — Full-Stack Engineer. Animated ASCII donut next to a neofetch-style summary: role, stack, contact and live GitHub stats." width="100%">
   </picture>
 </a>
 
