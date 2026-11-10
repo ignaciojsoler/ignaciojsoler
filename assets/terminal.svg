@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="430" viewBox="0 0 760 430" role="img" aria-label="Terminal: Ignacio Soler, Full-Stack Developer and UX/UI Designer from Argentina. Stack: React, Next.js, TypeScript, Node.js, NestJS, PostgreSQL.">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:14px;white-space:pre}.cmd{fill:#e6edf3}.out{fill:#8b949e}.tag{fill:#e6edf3}.ban{fill:#58a6ff}.cover{fill:#0d1117}@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}#cur{opacity:0;animation:blink 1.1s steps(1) 9.06s infinite}@keyframes t0{to{transform:translateX(73.2px)}}.c0{animation:t0 0.36s steps(8,end) 0.5s forwards}@keyframes t1{to{transform:translateX(308.4px)}}.c1{animation:t1 0.3s steps(36,end) 0.86s forwards}@keyframes t2{to{transform:translateX(316.8px)}}.c2{animation:t2 0.3s steps(37,end) 1.16s forwards}@keyframes t3{to{transform:translateX(325.2px)}}.c3{animation:t3 0.3s steps(38,end) 1.46s forwards}@keyframes t4{to{transform:translateX(325.2px)}}.c4{animation:t4 0.3s steps(38,end) 1.76s forwards}@keyframes t5{to{transform:translateX(316.8px)}}.c5{animation:t5 0.3s steps(37,end) 2.06s forwards}@keyframes t6{to{transform:translateX(417.6px)}}.c6{animation:t6 1.2s steps(49,end) 2.36s forwards}@keyframes t7{to{transform:translateX(132.0px)}}.c7{animation:t7 0.6749999999999999s steps(15,end) 4.06s forwards}@keyframes t8{to{transform:translateX(510.0px)}}.c8{animation:t8 1.3s steps(60,end) 4.73s forwards}@keyframes t9{to{transform:translateX(132.0px)}}.c9{animation:t9 0.6749999999999999s steps(15,end) 6.53s forwards}@keyframes t10{to{transform:translateX(207.6px)}}.c10{animation:t10 0.9s steps(24,end) 7.21s forwards}@keyframes t11{to{transform:translateX(22.8px)}}.c11{animation:t11 0.35s steps(2,end) 8.61s forwards}</style>
+<rect x="0.5" y="0.5" width="759" height="429" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 10.5a10 10 0 0 1 10-10h739a10 10 0 0 1 10 10V36H0.5z" fill="#161b22"/>
+<line x1="0.5" y1="36" x2="759.5" y2="36" stroke="#30363d"/>
+<circle cx="22" cy="18" r="6" fill="#ff5f56"/><circle cx="42" cy="18" r="6" fill="#ffbd2e"/><circle cx="62" cy="18" r="6" fill="#27c93f"/>
+<text x="380.0" y="23" text-anchor="middle" fill="#8b949e" style="font-size:12px">ignacio@soler: ~</text>
+<text class="cmd" x="28" y="70" textLength="67.2" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#7ee787">$</tspan> whoami</text>
+<rect class="cover c0" x="27" y="56" width="75.2" height="18"/>
+<text class="ban" x="28" y="104" textLength="302.4" lengthAdjust="spacing" xml:space="preserve"> ___ ____ _   _    _    ____ ___ ___</text>
+<rect class="cover c1" x="27" y="91" width="310.4" height="17"/>
+<text class="ban" x="28" y="121" textLength="310.8" lengthAdjust="spacing" xml:space="preserve">|_ _/ ___| \ | |  / \  / ___|_ _/ _ \</text>
+<rect class="cover c2" x="27" y="108" width="318.8" height="17"/>
+<text class="ban" x="28" y="138" textLength="319.2" lengthAdjust="spacing" xml:space="preserve"> | | |  _|  \| | / _ \| |    | | | | |</text>
+<rect class="cover c3" x="27" y="125" width="327.2" height="17"/>
+<text class="ban" x="28" y="155" textLength="319.2" lengthAdjust="spacing" xml:space="preserve"> | | |_| | |\  |/ ___ \ |___ | | |_| |</text>
+<rect class="cover c4" x="27" y="142" width="327.2" height="17"/>
+<text class="ban" x="28" y="172" textLength="310.8" lengthAdjust="spacing" xml:space="preserve">|___\____|_| \_/_/   \_\____|___\___/</text>
+<rect class="cover c5" x="27" y="159" width="318.8" height="17"/>
+<text class="tag" x="28" y="211" textLength="411.6" lengthAdjust="spacing" xml:space="preserve">Full-Stack Developer · UX/UI Designer · Argentina</text>
+<rect class="cover c6" x="27" y="197" width="419.6" height="18"/>
+<text class="cmd" x="28" y="251" textLength="126.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#7ee787">$</tspan> cat stack.txt</text>
+<rect class="cover c7" x="27" y="237" width="134.0" height="18"/>
+<text class="out" x="28" y="277" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">React · Next.js · TypeScript · Node.js · NestJS · PostgreSQL</text>
+<rect class="cover c8" x="27" y="263" width="512.0" height="18"/>
+<text class="cmd" x="28" y="317" textLength="126.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#7ee787">$</tspan> ls interests/</text>
+<rect class="cover c9" x="27" y="303" width="134.0" height="18"/>
+<text class="out" x="28" y="343" textLength="201.6" lengthAdjust="spacing" xml:space="preserve">music/  3d/  games/  ux/</text>
+<rect class="cover c10" x="27" y="329" width="209.6" height="18"/>
+<text class="cmd" x="28" y="383" textLength="16.8" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#7ee787">$</tspan> </text>
+<rect class="cover c11" x="27" y="369" width="24.8" height="18"/>
+<rect id="cur" x="46.8" y="371" width="8" height="16" fill="#e6edf3"/>
+</svg>

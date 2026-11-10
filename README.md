@@ -1,10 +1,6 @@
-<a href="https://www.ignaciosoler.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg">
-    <img src="./dark_mode.svg" alt="Ignacio Soler — Full-Stack Engineer. Animated ASCII donut next to a neofetch-style summary: role, stack, contact and live GitHub stats." width="100%">
-  </picture>
-</a>
+<p align="center">
+  <a href="https://www.ignaciosoler.com"><img src="./assets/terminal.svg" alt="Terminal: ignacio@soler, Full-Stack Developer and UX/UI Designer from Argentina. Stack: React, Next.js, TypeScript, Node.js, NestJS, PostgreSQL." width="760"></a>
+</p>
 
 <p align="center">
   <a href="https://www.ignaciosoler.com"><img src="https://img.shields.io/badge/Portfolio-ignaciosoler.com-d8ff3e?style=for-the-badge&labelColor=08090c" alt="Portfolio"/></a>
